@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWPhlzJ/fFU=",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\DOTNET\\FUNDAMENTOS\\EXEMPLOF\\FUNDAMENTOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

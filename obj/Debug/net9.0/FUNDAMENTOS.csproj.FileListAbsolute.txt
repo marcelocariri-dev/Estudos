@@ -1,0 +1,17 @@
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\FUNDAMENTOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\FUNDAMENTOS.AssemblyInfoInputs.cache
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\FUNDAMENTOS.AssemblyInfo.cs
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\FUNDAMENTOS.csproj.CoreCompileInputs.cache
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\bin\Debug\net9.0\FUNDAMENTOS.exe
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\bin\Debug\net9.0\FUNDAMENTOS.deps.json
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\bin\Debug\net9.0\FUNDAMENTOS.runtimeconfig.json
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\bin\Debug\net9.0\FUNDAMENTOS.dll
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\bin\Debug\net9.0\FUNDAMENTOS.pdb
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\FUNDAMENTOS.dll
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\refint\FUNDAMENTOS.dll
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\FUNDAMENTOS.pdb
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\FUNDAMENTOS.genruntimeconfig.cache
+D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\ref\FUNDAMENTOS.dll
+D:\Estudos\DOTNET\FUNDAMENTOS\EXEMPLOF\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Estudos\DOTNET\FUNDAMENTOS\EXEMPLOF\obj\Debug\net9.0\FUNDAMENTOS.csproj.AssemblyReference.cache
+D:\Estudos\DOTNET\FUNDAMENTOS\EXEMPLOF\obj\Debug\net9.0\FUNDAMEN.ABC47875.Up2Date
