@@ -339,3 +339,15 @@ Console.WriteLine($"o valor do array é { inteiroa[0]}");
     {
       Console.WriteLine("Farei hoje!");
     }
+
+
+
+/// testando a herança e polimorfismo
+/// 
+ContaCorrente contaCorrente = new ContaCorrente(135749);
+
+contaCorrente.Creditar(50, 2);
+
+contaCorrente.MostrarSaldo();
+
+contaCorrente.MostrarNconta();

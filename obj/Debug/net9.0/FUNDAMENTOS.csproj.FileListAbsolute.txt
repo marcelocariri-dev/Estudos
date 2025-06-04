@@ -15,3 +15,4 @@ D:\Estudos\DOTNET\FUNDAMENTOS\exemplof\obj\Debug\net9.0\ref\FUNDAMENTOS.dll
 D:\Estudos\DOTNET\FUNDAMENTOS\EXEMPLOF\bin\Debug\net9.0\Newtonsoft.Json.dll
 D:\Estudos\DOTNET\FUNDAMENTOS\EXEMPLOF\obj\Debug\net9.0\FUNDAMENTOS.csproj.AssemblyReference.cache
 D:\Estudos\DOTNET\FUNDAMENTOS\EXEMPLOF\obj\Debug\net9.0\FUNDAMEN.ABC47875.Up2Date
+D:\Estudos\DOTNET\FUNDAMENTOS\EXEMPLOF\obj\Debug\net9.0\FUNDAMENTOS.sourcelink.json
