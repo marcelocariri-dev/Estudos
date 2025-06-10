@@ -2,6 +2,7 @@
 using System.Net.Http.Headers;
 using EXEMPLOF.models;
 using Newtonsoft.Json;
+using System.Threading;
 
 // or = ||, AND = && !choveu = operador !not, negando os valores
 //operadores aritimétricos somar {x + Y} / subtrair {x - y}. multiplicar {X * Y}, dividir {X / Y}
@@ -351,3 +352,24 @@ contaCorrente.Creditar(50, 2);
 contaCorrente.MostrarSaldo();
 
 contaCorrente.MostrarNconta();
+////////desafios
+
+
+double A, B, C;
+   //preencha a a leitura dos dados aqui
+    // Preenche a leitura dos dados aqui
+        Console.WriteLine("Digite o valor de A:");
+        A = double.Parse(Console.ReadLine(), new CultureInfo("pt-BR"));
+
+        Console.WriteLine("Digite o valor de b:");
+        B = double.Parse(Console.ReadLine(), new CultureInfo("pt-BR")); // Linha adicionada para ler B
+
+        Console.WriteLine("Digite o valor de C:");
+        C = double.Parse(Console.ReadLine(), new CultureInfo("pt-BR")); // Linha adicionada para ler C
+      
+      Console.WriteLine($"MEDIA = " + String.Format("{0:0.0}", ((A * 2) + (B * 3) + (C * 5)) / (2 + 3 + 5)));
+
+
+CultureInfo culture = Thread.CurrentThread.CurrentCulture;
+Console.WriteLine($"o cultura atual é {culture.Name}");
+Console.ReadKey();
